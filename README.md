@@ -9,7 +9,7 @@ Given the review text with user recommendation and other information related to 
 
 #### Private Leaderboard rank : 106 out of 2800+ participants
 #### Public Leaderboard rank :113 out of 2800+ participants
-
+## Data Preview
 ![Screenshot from 2020-06-25 10-51-01](https://user-images.githubusercontent.com/64247956/85659498-3bbf4680-b6d2-11ea-8e37-64ea87175d5f.png)
 ## Evaluation: F1 Score
 #### Secured Best F1 Score of 0.84899 on private leaderboard
